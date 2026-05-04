@@ -1,4 +1,4 @@
-Import sys, os, hashlib, subprocess, datetime, requests, time, random, string, threading
+import sys, os, hashlib, subprocess, datetime, requests, time, random, string, threading
 from colorama import Fore, Style, init
 from urllib.parse import urlparse, parse_qs
 
